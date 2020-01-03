@@ -1,0 +1,10 @@
+
+.header{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color:#dff6f0;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-shadow: 1rem .1rem teal;
+}
